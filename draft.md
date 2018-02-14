@@ -83,7 +83,7 @@ Release Date: 2018-2-19
 ###  Tutorials
 
 
-
++ [Licensing R Packages that Include Others Code](http://rmflight.github.io/post/licensing-r-packages-that-include-others-code/)
 
 + [a use-case for shiny modules for downloadable plots](https://www.ildiczeller.com/2018/02/11/downloadable-ggplots-in-shiny/)
 
